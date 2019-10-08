@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F56202D234C227D00DA6B34 /* power_function.png in Resources */ = {isa = PBXBuildFile; fileRef = 1F56202C234C227D00DA6B34 /* power_function.png */; };
 		1FD9503B234BC05B002D07B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD9503A234BC05B002D07B6 /* AppDelegate.swift */; };
 		1FD9503D234BC05B002D07B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD9503C234BC05B002D07B6 /* SceneDelegate.swift */; };
 		1FD9503F234BC05B002D07B6 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FD9503E234BC05B002D07B6 /* FirstViewController.swift */; };
@@ -30,6 +31,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1F56202C234C227D00DA6B34 /* power_function.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = power_function.png; sourceTree = "<group>"; };
+		1F56202E234C22AA00DA6B34 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1FD95037234BC05B002D07B6 /* SqlitePowerFunction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SqlitePowerFunction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FD9503A234BC05B002D07B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FD9503C234BC05B002D07B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +70,8 @@
 		1FD9502E234BC05B002D07B6 = {
 			isa = PBXGroup;
 			children = (
+				1F56202E234C22AA00DA6B34 /* README.md */,
+				1F56202C234C227D00DA6B34 /* power_function.png */,
 				1FD95039234BC05B002D07B6 /* SqlitePowerFunction */,
 				1FD95050234BC05D002D07B6 /* SqlitePowerFunctionTests */,
 				1FD95038234BC05B002D07B6 /* Products */,
@@ -192,6 +197,7 @@
 				1FD95047234BC05D002D07B6 /* LaunchScreen.storyboard in Resources */,
 				1FD95044234BC05C002D07B6 /* Assets.xcassets in Resources */,
 				1FD95042234BC05B002D07B6 /* Main.storyboard in Resources */,
+				1F56202D234C227D00DA6B34 /* power_function.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
